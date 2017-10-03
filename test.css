@@ -1,2 +1,27 @@
-h2 {color: gray;}
-background-color {color: #7A25AF;}
+h2 {color: #3A3A3A;}
+body {background-color: #ADA1B4;}
+h1 {
+    display: flex; 
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: flex-end
+}
+
+#contactinfo {
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: underline
+}
+
+p {
+    font-family: "baskerville";
+    font-size: large;
+}
+
+h2 {
+    font-family: "didot";
+    font-size: xx-large;
+}
